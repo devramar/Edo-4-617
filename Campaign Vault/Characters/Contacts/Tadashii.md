@@ -1,0 +1,1 @@
+An ECF member who is pretty fucked up, connected to a lot of gun-running within Red Broth. [[Red Broth Crime Syndicate||Red Broth]], can usually get me anything weird i may need for anything
