@@ -1,0 +1,4 @@
+- Edoan small scale genetics company
+- Not a big genetics company
+- Owned by meritscale technologies
+- Only have one location in an Edo industrial district

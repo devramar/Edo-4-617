@@ -1,7 +1,8 @@
+Lyre gave us contact with [[Jemith Pesek (Lucky)|Jemith Pesek]]. He told us to meet him at [[The Holy Pit]] at our nearest convenience.
 
-[[The Holy Pit]] doesn't feel like a pub. there's alcohol smell and crowd noise but the alfre deity stained glass window, old and large wooden doors really conflict.
+[[The Holy Pit]] doesn't feel like a pub. there's alcohol smell and crowd noise but the alfre deity stained glass window, old and large wooden doors really conflict. The place was once a church, an interesting juxtapose.
 
-Stella Oakley is gone, kidnapped. 
+[[Stella Oakley]] is gone, kidnapped. 
 
 *Lucky describes her as:*
 - Human
@@ -29,7 +30,7 @@ Jareth contacted executive contact:
 	- "Oh Stella? Isn't that Stiff's (Carl Oakley) kid?"
 	- Bounty was put on (Carl Oakley's kid) Stella Oakley as she pissed off Edo Genetics
 
-I Looked into Edo Genetics:
+I Looked into [[Edo Genetics]]:
  - Not a big genetics company
  - owned by meritscale technologies
  - only have one location in an industrial district
