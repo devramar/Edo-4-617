@@ -58,3 +58,5 @@ in edo genetics with oakley after unaliving the dudes:
 	 - three holes in one of his ears. piercings for pro LNP nationalist earrings
 		 - Looks like he's gone to work with Locician Trust and the Rift Labs
 			 - Stella Oakley has a contact through lucky who might be able to help hunt the bitch
+
+
