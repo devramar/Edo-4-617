@@ -1,0 +1,7 @@
+Named after my family's legacy, my Senaka Boots are of my creation (with incredible help from my mom). These boots are the first real world implementation of my patented Senaka Boosters; lightweight thrusters which when provided with power, can produce impressive thrusts.
+
+The Senaka Boots can be turned on by a solid slam of the boot into the ground, or by external triggers if desired. When turned on the thrusters will spin up, giving a few moments of wind up before boosting you off the ground. Users can control and configure ideal hovering heights and properties of the thrusters to achieve ideal heights for hovering. 
+
+Since the Senaka Boosters use the surrounding air to hover off the ground, if active while falling, it will greatly increase the horizontal distance one could travel, increase the control in the air one would have, and allow the user to gently float down to the ground like a feather. 
+
+The Senaka Boots although can be powered through batteries in the shoes, I've found them heavy and cumbersome. My personal boots have been modded to an external battery within my backpack, with two retractable quick disconnect cables (if they get caught on something, they'll disconnect at the shoe) which keep the cables clean and at an ideal angle. This battery I keep in my bag powers most of my tech when I'm out on my own.

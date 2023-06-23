@@ -1,0 +1,1 @@
+Named after [[Adashi Ward||the ward]] after Tedaki Adashi, Adashi University is a heavily focused science and engineering university which prides itself on its historical and continued prioritisation of making the problem solvers of the next generation. 
