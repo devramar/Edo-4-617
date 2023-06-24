@@ -7,14 +7,20 @@ A sprint action doubles movement instead of only increasing it by half. However,
 ## Silent Assassin
 Your critical hit threshold decreases by 5 against surprised enemies.
 
+## Second Chance
+Whenever an individual hits you with a non-critical attack roll, you can choose to force them to miss. You can do this even after knowing the amount of damage you were to otherwise take. This can happen only once per Initiative roll.
+
 ## Augmented Reality Targeting Interface
 Reactively +5 to a ranged attack roll once per long rest.
 (Installed into the glasses)
 
+## Extended Audio Module
+Increases Perception by 2 on hearing-based checks. Also provides hearing protection for alfres.
+
 ## HEALTH
-38
+70
 /
-62
+70
 
 ## WEAPONS
 EWC Recon
@@ -49,7 +55,19 @@ Target ID:
 everyone rolls -- rolling later is better for gear rolls
 
 ## Recovery Points
-5 / 6
+6 / 6
 
 ## Limit
 1 / 6
+
+spam house
+
+## MOOLAH
+17k
+
+
+## INVENTORY
+1x Smoke Grenade
+2x Venomshot
+1x Thief's Tool
+1x Breaching Torch
