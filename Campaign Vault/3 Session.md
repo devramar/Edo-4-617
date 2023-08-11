@@ -29,5 +29,12 @@ we know what a rift is.
 
 summary:
 M.Steele went to look into the "LNP rift labs" but he didn't come back to tell em what's up.
-
 - 2 years
+
+church bar. the holy pit. teleportation shit. poggers. lil rats on the track.
+
+i texted lucky. "dickheads in white uniforms have been blabbing about some rift labs."
+
+some business sense shows these guys are real nasty associates in some way of the LNP. 
+
+fattock looked into the lnp heirarchy 

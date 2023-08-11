@@ -23,7 +23,7 @@ Increases Perception by 2 on hearing-based checks. Also provides hearing protect
 70
 
 ## WEAPONS
-EWC Recon (suppressor) 
+EWC Recon (suppressor)
 +4 (+9) to hit
 1d10 +7 DMG, 19 Crit, 2x
 5 shots, 3 weight
@@ -39,7 +39,7 @@ VIT
 COR
 7 (+2)
 AGI
-8 (+3) 
+8 (+3)
 KNO
 6 (+1)
 PER
@@ -49,7 +49,7 @@ INT
 
 +1 to Skills
 
-SPD 14m
+SPD 14m, (7 tiles)
 
 Target ID: 
 everyone rolls -- rolling later is better for gear rolls
@@ -63,7 +63,7 @@ everyone rolls -- rolling later is better for gear rolls
 spam house
 
 ## MOOLAH
-15.9k
+0.9k
 
 ## INVENTORY
 1x Smoke Grenade
@@ -72,4 +72,4 @@ spam house
 1x Breaching Torch
 
 1x Megaphone
-4x people tying cable ties
+2x people tying cable ties
