@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Vault/4 Session.md",
+                "file": "Campaign Vault/Sesh Notes/4 Session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f6b7acc0202b4bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Vault/Toyoki Senaka/Stats.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Vault/4 Session.md",
+                "file": "Campaign Vault/Toyoki Senaka/Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Vault/4 Session.md",
+                "file": "Campaign Vault/Toyoki Senaka/Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Vault/4 Session.md"
+                "file": "Campaign Vault/Toyoki Senaka/Stats.md"
               }
             }
           }
@@ -154,10 +167,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81495d347784b215",
+  "active": "3f6b7acc0202b4bf",
   "lastOpenFiles": [
     "Campaign Vault/Toyoki Senaka/Perks.md",
-    "Campaign Vault/4 Session.md",
+    "Campaign Vault/Toyoki Senaka/Stats.md",
+    "Campaign Vault/Toyoki Senaka/Background.md",
+    "Campaign Vault/Sesh Notes/5 Session.md",
+    "Campaign Vault/Toyoki Senaka/Notes.md",
+    "Campaign Vault/Toyoki Senaka/Equipment.md",
+    "Campaign Vault/Sesh Notes/4 Session.md",
+    "Campaign Vault/Toyoki Senaka/Toki Tech.md",
+    "Campaign Vault/Sesh Notes/3 Session.md",
+    "Campaign Vault/Sesh Notes/1 Session.md",
+    "Campaign Vault/Sesh Notes/2 Session.md",
+    "Campaign Vault/Sesh Notes",
     "Campaign Vault/Characters/Jemith Pesek (Lucky).md",
     "Campaign Vault/Factoids/New Excenan Republic.md",
     "Campaign Vault/Factoids/My Roommates.md",
@@ -165,10 +188,7 @@
     "Campaign Vault/Locations/The Apocalypse.md",
     "Campaign Vault/Locations/The Holy Pit.md",
     "Toyoki Senaka.pdf",
-    "Campaign Vault/1 Session.md",
     "README.md",
-    "Campaign Vault/3 Session.md",
-    "Campaign Vault/2 Session.md",
     "Edo Vault",
     "Campaign Vault/Locations/ECP/Setaga Ward.md",
     "Campaign Vault/Locations/ECP/Itagashi Ward.md",
@@ -181,16 +201,9 @@
     "Campaign Vault/Institutions/ECP/Edo Community Fighters.md",
     "Campaign Vault/Institutions/RG Sec.md",
     "Campaign Vault/Institutions/Red Broth Crime Syndicate.md",
-    "Campaign Vault/Institutions/Excena.md",
-    "Campaign Vault/Institutions/Edo.md",
-    "Campaign Vault/Institutions/English Rain.md",
-    "Campaign Vault/Institutions/Edo Genetics.md",
     "Campaign Vault/Institutions/ECP",
     "Campaign Vault/Institutions",
-    "Edo Vault/Toyoki Senaka/Perks.md",
-    "Campaign Vault/Characters/Contacts/Fixers/Tekashi Fujiwara (Boyokudan).md",
     "Campaign Vault/Characters/Contacts/Fixers",
-    "Campaign Vault/Characters/Squad",
-    "Campaign Vault/Characters/International League"
+    "Campaign Vault/Characters/Squad"
   ]
 }

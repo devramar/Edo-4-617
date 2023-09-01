@@ -18,17 +18,17 @@ Reactively +5 to a ranged attack roll once per long rest.
 Increases Perception by 2 on hearing-based checks. Also provides hearing protection for alfres.
 
 ## HEALTH
-42
+60
 /
 70
 
 ## WEAPONS
-EWC Recon (suppressor)
+EWC Recon
 +4 (+9) to hit
 1d10 +7 DMG, 19 Crit, 2x
 5 shots, 3 weight
 
-Hunt .56 
+Hunt .56 (suppressor)
 +5 (+10) to hit
 3d6 +4 DMG, 20 crit, 2x
 3 ammo, 2 weight
@@ -37,7 +37,7 @@ Hunt .56
 VIT
 6 (+1)
 COR
-7 (+2)
+10 (+5)
 AGI
 8 (+3)
 KNO
@@ -57,13 +57,17 @@ everyone rolls -- rolling later is better for gear rolls
 ## Recovery Points
 6 / 6
 
+
+## AC
+10 + AGI (13)
+
 ## Limit
 1 / 6
 
 spam house
 
 ## MOOLAH
-0.9k
+50.9k
 
 ## INVENTORY
 1x Smoke Grenade
